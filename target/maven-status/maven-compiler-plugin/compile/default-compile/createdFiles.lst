@@ -1,0 +1,7 @@
+com/mycompany/app/util/Calc.class
+com/mycompany/app/entity/User.class
+com/mycompany/app/ToDoListApplication.class
+com/mycompany/app/entity/Task$Status.class
+com/mycompany/app/repository/TaskRepository.class
+com/mycompany/app/repository/UserRepository.class
+com/mycompany/app/entity/Task.class

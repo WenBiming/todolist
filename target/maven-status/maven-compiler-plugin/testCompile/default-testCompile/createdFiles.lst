@@ -1,0 +1,4 @@
+com/mycompany/app/repository/UserRepositoryTests.class
+com/mycompany/app/ToDoListApplicationTests.class
+com/mycompany/app/repository/TaskRepositoryTests.class
+com/mycompany/app/util/CalcTest.class
